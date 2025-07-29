@@ -1,2 +1,2 @@
-# lfgtrucking.github.io
-LFG Trucking
+# LFG Trucking
+Website coming soon
