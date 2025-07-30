@@ -11,17 +11,17 @@ header {
   text-align: center;
   background: #e7d4b2;
   color: #222;
-  padding: 2rem 1rem;
+  padding: 3rem 1rem 2rem 1rem;
 }
 
 .logo {
-  max-width: 150px;
+  max-width: 200px;
   height: auto;
-  margin-bottom: 1rem;
+  margin-bottom: 1.5rem;
 }
 
 .tagline {
-  font-size: 1.1rem;
+  font-size: 1.25rem;
   margin-top: 0.5rem;
 }
 
@@ -32,13 +32,14 @@ main {
 }
 
 section {
-  margin-bottom: 2rem;
+  margin-bottom: 3rem;
 }
 
 section h2 {
-  color: #e7d4b2;
+  color: #222;
   border-bottom: 2px solid #222;
   padding-bottom: 0.25rem;
+  margin-bottom: 1rem;
 }
 
 ul {
@@ -50,5 +51,5 @@ footer {
   background: #222;
   padding: 1rem;
   font-size: 0.9rem;
-  color: #666;
+  color: #e7d4b2;
 }
