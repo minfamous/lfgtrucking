@@ -9,8 +9,8 @@ body {
 
 header {
   text-align: center;
-  background: #004266;
-  color: #fff;
+  background: #e7d4b2;
+  color: #222;
   padding: 2rem 1rem;
 }
 
@@ -36,8 +36,8 @@ section {
 }
 
 section h2 {
-  color: #004266;
-  border-bottom: 2px solid #ddd;
+  color: #e7d4b2;
+  border-bottom: 2px solid #222;
   padding-bottom: 0.25rem;
 }
 
@@ -47,7 +47,7 @@ ul {
 
 footer {
   text-align: center;
-  background: #eee;
+  background: #222;
   padding: 1rem;
   font-size: 0.9rem;
   color: #666;
