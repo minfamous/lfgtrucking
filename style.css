@@ -11,18 +11,19 @@ header {
   text-align: center;
   background: #e7d4b2;
   color: #222;
-  padding: 3rem 1rem 2rem 1rem;
+  padding: 1.5rem 1rem 1rem 1rem;
 }
 
 .logo {
-  max-width: 200px;
+  max-width: 260px;
   height: auto;
-  margin-bottom: 1.5rem;
+  margin-bottom: 0.75rem;
+  margin-top: 0.5rem;
 }
 
 .tagline {
-  font-size: 1.25rem;
-  margin-top: 0.5rem;
+  font-size: 1.15rem;
+  margin: 0.25rem 0 0;
 }
 
 main {
@@ -32,7 +33,7 @@ main {
 }
 
 section {
-  margin-bottom: 3rem;
+  margin-bottom: 2.5rem;
 }
 
 section h2 {
