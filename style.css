@@ -15,19 +15,19 @@ header {
 }
 
 .logo {
-  max-width: 260px;
+  max-width: 400px;
   height: auto;
-  margin-bottom: 0.75rem;
-  margin-top: 0.5rem;
+  margin-bottom: 0.25rem;
+  margin-top: 0.25rem;
 }
 
 .tagline {
   font-size: 1.15rem;
-  margin: 0.25rem 0 0;
+  margin: 0.1rem 0 0;
 }
 
 main {
-  padding: 2rem;
+  padding: .25rem;
   max-width: 800px;
   margin: auto;
 }
